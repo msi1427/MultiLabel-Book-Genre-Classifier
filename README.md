@@ -28,5 +28,5 @@ The trained model has a memory of 300+MB. I compressed this model using ONNX qua
 
 The compressed model is deployed to HuggingFace Spaces Gradio App. The implementation can be found in `deployment` folder or [here](https://huggingface.co/spaces/msideadman/multilabel-book-genre-classifier) 
 
-<img src = "deployment/gradio_app.png" width="1000" height="500">
+<img src = "deployment/gradio_app.png" width="1500" height="500">
 
