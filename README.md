@@ -30,3 +30,5 @@ The compressed model is deployed to HuggingFace Spaces Gradio App. The implement
 
 <img src = "deployment/gradio_app.png" width="1000" height="400">
 
+## Web Deployment
+Deployed a Flask App built to take descprition and show the genres as output. Check `flask ` branch. The website is live [here](https://multilabel-book-genre-classifier.onrender.com) 
